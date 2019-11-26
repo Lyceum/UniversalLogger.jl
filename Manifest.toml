@@ -1,0 +1,9 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[Logging]]
+uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
+
+[[PushVectors]]
+git-tree-sha1 = "f157c6758aba95f179d28fcb6b3928d9e5e8c4d9"
+uuid = "36b54c61-190e-5a5f-82d5-6f0a962d7362"
+version = "0.2.0"
