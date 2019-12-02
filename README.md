@@ -2,7 +2,7 @@
 
 *A tool for logging aribitrary data.*
 
-![](https://github.com/Lyceum/UniversalLogger.jl/workflows/Run%20tests/badge.svg)
+![](https://github.com/Lyceum/UniversalLogger.jl/workflows/CI/badge.svg)
 
 ## Example
 
